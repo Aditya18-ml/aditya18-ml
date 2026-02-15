@@ -41,9 +41,9 @@ I love building things that live on the internet and exploring how machines can 
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ayushnotafk\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Ayushnotafk\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushnotafk\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aditya18-ml\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=aditya18-ml\&theme=dark\&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya18-ml\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
 
 ---
 
@@ -54,4 +54,3 @@ I love building things that live on the internet and exploring how machines can 
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ayushnotafk\&icon=0\&color=0)
